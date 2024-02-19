@@ -132,10 +132,12 @@ function CounterComponent() {
 
 ## Creator
 
-This package was created by [Ethern Myth](http://www.github.com/ethern-myth)
+This package was created by [Ethern Myth](http://www.github.com/ethern-myth/tree/main/examples)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](http://www.opensource.org/licenses/mit-license). file for details.
 
-## Don't forget to like this repo. If you have any questions feel free to ask
+<br/>
+
+**Don't forget to like this repo. If you have any questions feel free to ask**
