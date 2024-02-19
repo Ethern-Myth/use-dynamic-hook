@@ -1,6 +1,6 @@
 # `useDynamicHook`
 
-**'useDynamicHook'** is not a standard React Hook provided by React itself; rather, it is a custom hook created by users to encapsulate dynamic behavior or logic in a reusable and flexible way. Here are some key differences between useDynamicHook and standard React hooks:
+**'useDynamicHook'** is not a standard React Hook provided by React itself; rather, it is a custom hook created by Ethern Myth to encapsulate dynamic behavior or logic in a reusable and flexible way. Here are some key differences between useDynamicHook and standard React hooks:
 
 <br/>
 
