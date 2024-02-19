@@ -9,9 +9,7 @@
 	"description": "A custom React hook that provides a flexible and dynamic way to manage state and execute logic within functional components",
 	"main": "index.ts",
 	"scripts": {
-		"build": "rimraf dist && tsup",
-		"test": "jest",
-		"publish": "pnpm build && npm publish"
+		"build": "rimraf dist && tsup"
 	},
 	"repository": {
 		"type": "git",
