@@ -142,7 +142,7 @@ function MyComponent() {
 
 ## Find More Examples here
 
-[Use Dynamic Hook Examples](http://www.github.com/Ethern-Myth/use-dynamic-hook/examples)
+[Use Dynamic Hook Examples](http://www.github.com/Ethern-Myth/use-dynamic-hook/tree/main/examples)
 
 ## Example
 
