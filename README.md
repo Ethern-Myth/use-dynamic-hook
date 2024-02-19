@@ -132,7 +132,7 @@ function CounterComponent() {
 
 ## Creator
 
-This package was created by [Ethern Myth](http://www.github.com/Ethern-Myth/use-dynamic-hook/tree/main/examples)
+This package was created by [Ethern Myth](http://www.github.com/Ethern-Myth/use-dynamic-hook/tree/main/examples/EXAMPLES.md)
 
 ## License
 
