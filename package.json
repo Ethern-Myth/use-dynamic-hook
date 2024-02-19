@@ -1,0 +1,48 @@
+{
+	"name": "use-dynamic-hook",
+	"module": "dist/index.mjs",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"version": "1.0.1",
+	"description": "A custom React hook that provides a flexible and dynamic way to manage state and execute logic within functional components",
+	"main": "index.ts",
+	"scripts": {
+		"build": "rimraf dist && tsup",
+		"test": "jest",
+		"publish": "pnpm build && npm publish"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ethern-Myth/use-dynamic-hook.git"
+	},
+	"keywords": [
+		"custom",
+		"hook",
+		"react",
+		"state",
+		"management",
+		"typescript",
+		"javascript"
+	],
+	"author": "Ethern Myth",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Ethern-Myth/use-dynamic-hook/issues"
+	},
+	"homepage": "https://github.com/Ethern-Myth/use-dynamic-hook#readme",
+	"peerDependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.21",
+		"@types/node": "^20.11.19",
+		"@types/react": "^18.2.56",
+		"rimraf": "^5.0.5",
+		"ts-node": "^10.9.2",
+		"tsup": "^8.0.2",
+		"typescript": "^5.3.3"
+	}
+}
