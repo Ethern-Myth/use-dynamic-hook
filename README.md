@@ -25,7 +25,7 @@ pnpm add use-dynamic-hook
 * Implementation:
 
     Standard React hooks are implemented and maintained by the React team and are part of the React library.
-    useDynamicHook is a custom hook created by users. It is implemented by users according to their specific needs and requirements and is not part of the React library.
+    useDynamicHook is a custom hook created by Ethern Myth. It is implemented by users according to their specific needs and requirements and is not part of the React library.
 
 <br/>
 
