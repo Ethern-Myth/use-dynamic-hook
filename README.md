@@ -2,6 +2,8 @@
 
 **'useDynamicHook'** is not a standard React Hook provided by React itself; rather, it is a custom hook created by Ethern Myth to encapsulate dynamic behavior or logic in a reusable and flexible way. Here are some key differences between useDynamicHook and standard React hooks:
 
+[![npm downloads](https://img.shields.io/npm/dm/use-dynamic-hook)](https://www.npmjs.com/package/use-dynamic-hook)
+
 <br/>
 
 [![NPM](https://nodei.co/npm/use-dynamic-hook.png)](https://nodei.co/npm/use-dynamic-hook/)
